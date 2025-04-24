@@ -6,6 +6,8 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+https://camo.githubusercontent.com/0255f5360db1991a1db2d76cba639e54f61ce3f57476e7a0f2c76d5be94c562a/68747470733a2f2f6f63746f6465782e6769746875622e636f6d2f696d616765732f696e666c61746f6361742e706e67
+
 <!---
 truelogisticinc/truelogisticinc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
