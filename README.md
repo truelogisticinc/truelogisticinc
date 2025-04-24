@@ -10,7 +10,7 @@
 
 
 ## Contact Information
-* True Logistic :tiger:
+* True Logistic :fish: 🐙 🐡 🛥️ 🚢
 * [My Email](seafood@truelogisticinc.com) :envelope: :love_letter:
 * [My website page](https://truelogisticinc.com) :globe_with_meridians:
 * [My GitHub Page](https://github.com/truelogisticinc) :octocat:
